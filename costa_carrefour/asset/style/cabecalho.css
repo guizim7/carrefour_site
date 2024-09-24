@@ -52,7 +52,7 @@ nav {
  #logo {
  	width: 200px;
  	height: 90px;
- 	margin-top: 5px;
+ 	margin-top: 50px;
  }
 
 
@@ -94,9 +94,9 @@ nav {
  	width: 80%;
  	margin-left: auto;
  	margin-right: auto;
- 	padding-top: 15em;
- 	padding-bottom: 15em;
- 	text-align: center;
+ 	padding-top: em;
+ 	padding-bottom: em;
+ 	text-align:;
  }
 
  #search-form h1 {
